@@ -1,5 +1,7 @@
 """Rewrite tweets using various patterns – no LLM API required."""
 
+from __future__ import annotations
+
 import random
 import re
 

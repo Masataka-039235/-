@@ -1,5 +1,7 @@
 """Search for popular X posts using DuckDuckGo (no API key required)."""
 
+from __future__ import annotations
+
 import re
 import time
 from dataclasses import dataclass
